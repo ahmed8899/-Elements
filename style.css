@@ -12,7 +12,7 @@ body {
 	/* Responsive page rules at bottom of style sheet */
 
 h1 {
-	background-image: url(../images/kinglogo.png);
+	background-image: url(http://javascriptbook.com/code/c05/images/kinglogo.png);
 	background-repeat: no-repeat;
 	background-position: center center;
 	text-align: center;
@@ -90,7 +90,7 @@ li {
 li a {
 	color: #fff;
 	text-decoration: none;
-	background-image: url("../images/icon-link.png");
+	background-image: url("https://previews.123rf.com/images/patrikv/patrikv1507/patrikv150700500/42452666-still-life-photography-of-hot-coffee-beverage-with-map-of-ethiopia.jpg");
 	background-position: center, right;
 	background-repeat: no-repeat;
     padding-right: 36px;}
